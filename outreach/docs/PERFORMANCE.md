@@ -35,6 +35,6 @@ Too few sends and no replies yet, so this can't credit or blame the wording. The
    Until then, real audits are pending and the pilot leads sit in `retry`.
 2. **Reference videos.** Both MP4s are inaccessible (see `docs/VIDEO_MATRIX.md`).
 3. **Mailbox and release approval.** Emmanuel needs to confirm `anironmindbiz@gmail.com` (or a separate sending domain) and set `release.mode` and `mailbox_approved_by`.
-4. **Scheduled task cut-over.** The live task "Outreach twice daily (auto-send)" still runs v3.3 and **auto-sends**. It needs pausing or repointing to `AGENT_INSTRUCTIONS.md`, and needs Emmanuel's decision.
+4. **Scheduled task cut-over.** "Outreach twice daily (auto-send)" was **paused on 2026-11-23 at Emmanuel's request**. Its v3.3 prompt and run history are kept. To restart, either repoint its prompt to `AGENT_INSTRUCTIONS.md` (needs dependencies 1 and 6) or re-enable it as it was.
 5. **Companies House API key** (optional, free). It would make entity checks reliable and allow discovery by SIC code. Without it, entity status comes from the public register page.
 6. **Persistent DB location.** `data/outreach.db` is ignored by git. A scheduled run in a fresh container needs the DB stored somewhere durable (for example Drive, uploaded and downloaded each run, or a committed data branch) so state carries across runs.
