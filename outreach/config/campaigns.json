@@ -1,0 +1,73 @@
+{
+  "sender": {
+    "name": "Emmanuel Adekunle",
+    "signoff_line": "Web design for local businesses",
+    "mailbox": "anironmindbiz@gmail.com",
+    "portfolio": "https://emanwebdev.netlify.app/",
+    "preview_cta_url": "https://emanwebdev.netlify.app/#contact"
+  },
+  "release": {
+    "mode": "off",
+    "_mode_options": "off = nothing leaves; approval = only messages Emmanuel approved; auto = any queued message that passes gates",
+    "mailbox_approved_by": null,
+    "mailbox_approved_at": null,
+    "daily_cap": 10,
+    "followup_daily_cap": 10,
+    "paused": false,
+    "safety_stop": { "max_bounces_7d": 3, "max_bounce_rate_7d": 0.05 }
+  },
+  "followup": { "business_days_after": 4, "max_followups": 1 },
+  "discovery": {
+    "skip_empty_query_days": 14,
+    "max_pages_per_query": 3,
+    "directory_domains": [
+      "checkatrade.com", "trustatrader.com", "mybuilder.com", "myjobquote.co.uk", "bark.com",
+      "yell.com", "freeindex.co.uk", "ratedpeople.com", "which.co.uk", "trustedtraders.which.co.uk",
+      "houzz.com", "houzz.co.uk", "houzz.in", "thomsonlocal.com", "cylex-uk.co.uk", "nextdoor.co.uk",
+      "facebook.com", "instagram.com", "fresha.com", "booksy.com", "treatwell.co.uk", "tripadvisor.co.uk",
+      "opentable.co.uk", "google.com", "business.google.com", "fivestarroofline.co.uk", "roofingcentral.co.uk",
+      "whito.co.uk", "birdeye.com", "bringo.co.uk", "gumtree.com", "ukclassifieds.co.uk", "fmb.org.uk",
+      "corc.co.uk", "find-and-update.company-information.service.gov.uk", "checkatrade-consumer-web.pages.dev",
+      "salford.gov.uk", "leadforge.krapton.com"
+    ]
+  },
+  "scoring": { "high_threshold": 75, "standard_threshold": 60 },
+  "campaigns": [
+    {
+      "id": "roofing-gm",
+      "niche": "roofing",
+      "enabled": true,
+      "stage": 1,
+      "towns": ["Manchester", "Salford", "Eccles", "Swinton", "Didsbury", "Chorlton", "Stretford", "Urmston", "Sale"],
+      "expansion_towns": ["Stockport", "Bolton", "Bury", "Oldham", "Rochdale", "Wigan", "Trafford", "Tameside", "Altrincham", "Leigh"],
+      "services": ["flat roof repairs", "roof repairs", "roof replacement", "commercial roofing", "chimney repairs", "fascias and guttering"],
+      "service_value": 10,
+      "proof": { "name": "Ridge & Slate", "url": "https://emanwebdev.netlify.app/work/roofing",
+                 "line": "I built that kind of quote flow into Ridge & Slate, one of my roofing concepts: emanwebdev.netlify.app/work/roofing" }
+    },
+    {
+      "id": "salons-gm",
+      "niche": "salon",
+      "enabled": false,
+      "stage": 2,
+      "towns": ["Manchester", "Salford", "Stockport", "Altrincham", "Didsbury", "Chorlton"],
+      "expansion_towns": [],
+      "services": ["hair salon", "curly hair specialist", "afro hair salon", "balayage"],
+      "service_value": 6,
+      "proof": { "name": "Sunday Curl", "url": "https://emanwebdev.netlify.app/work/salon",
+                 "line": "Sunday Curl, a salon concept I built, walks customers from choosing a treatment to picking a day, time and stylist: emanwebdev.netlify.app/work/salon" }
+    },
+    {
+      "id": "restaurants-gm",
+      "niche": "restaurant",
+      "enabled": false,
+      "stage": 2,
+      "towns": ["Manchester", "Salford", "Ancoats", "Northern Quarter", "Didsbury", "Altrincham"],
+      "expansion_towns": [],
+      "services": ["restaurant", "bistro", "small plates restaurant", "tasting menu"],
+      "service_value": 7,
+      "proof": { "name": "Ember Table", "url": "https://emanwebdev.netlify.app/work/restaurant",
+                 "line": "Ember Table, a restaurant concept I built, takes you from a phone-friendly menu straight into booking a table: emanwebdev.netlify.app/work/restaurant" }
+    }
+  ]
+}

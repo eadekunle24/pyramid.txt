@@ -1,0 +1,61 @@
+[
+  {"_note": "REAL: WebSearch run 2026-11-23 from this session. Results transcribed from the search tool output.",
+   "campaign": "roofing-gm", "niche": "roofing", "service": "flat roof repairs", "town": "Salford",
+   "query": "flat roof repairs Salford roofing company Ltd", "source": "websearch", "page": 1,
+   "results": [
+     {"url": "https://www.checkatrade.com/Search/Flat-Roofing-Repair/in/Salford", "title": "Flat Roofing Repair in Salford (76)"},
+     {"url": "https://www.checkatrade.com/Search/Roofer/in/Salford", "title": "Roofer in Salford (84)"},
+     {"url": "https://www.checkatrade.com/trades/tcbroofingandbuiding", "name": "TCB Roofing & Building Ltd"},
+     {"url": "https://www.checkatrade.com/trades/alroofingsonsltd", "name": "AL Roofing Ltd"},
+     {"url": "https://www.checkatrade.com/Search/Flat-Roofing-Repair/in/Salford#ak", "name": "AK Roofing Specialists Ltd"},
+     {"url": "https://www.checkatrade.com/trades/pmandsonsroofingspecialist1023863", "name": "PM & Sons Roofing Specialists Ltd"},
+     {"url": "https://www.checkatrade.com/trades/kearneysdrivewaysroofingltd", "name": "Kearneys Driveways & Roofing Ltd"},
+     {"url": "https://www.trustatrader.com/traders/forever-last-roofing-ltd-flat-roofing-pendlebury-swinton-and-eccles", "name": "Forever Last Roofing Ltd"},
+     {"url": "https://www.mybuilder.com/roofing/roof-repair-tradespeople/salford?page=3", "title": "Top rated roof repairs specialists in Salford"}
+   ]},
+  {"campaign": "roofing-gm", "niche": "roofing", "service": "roof replacement", "town": "Manchester",
+   "query": "roofing contractors Manchester roof replacement Ltd", "source": "websearch", "page": 1,
+   "results": [
+     {"url": "https://www.checkatrade.com/trades/mostonroofinglimited", "name": "Moston Roofing Ltd"},
+     {"url": "https://www.checkatrade.com/trades/manchestersroofingandguttering", "name": "Manchester Roofing & Guttering Ltd"},
+     {"url": "https://www.checkatrade.com/trades/onlyroofinglimited", "name": "Only Roofing Ltd"},
+     {"url": "https://www.checkatrade.com/trades/manchesterroofingrepairs", "name": "Manchester Roofing Repairs Ltd"},
+     {"url": "https://www.trustatrader.com/traders/fpl-roofing-ltd-roof-renovation-insulation-manchester-central-1", "name": "FPL Roofing Ltd"},
+     {"url": "https://fivestarroofline.co.uk/roofing/manchester/manchester-roofing-repairs-ltd/", "name": "Manchester Roofing Repairs Ltd"},
+     {"url": "https://trustatrader.com/roof-replacement-in-manchester", "title": "Roof Replacement in Manchester"}
+   ]},
+  {"campaign": "roofing-gm", "niche": "roofing", "service": "roof repairs", "town": "Eccles",
+   "query": "roof repairs Eccles Swinton Salford roofer", "source": "websearch", "page": 1,
+   "results": [
+     {"url": "https://www.myjobquote.co.uk/roofer/greater-manchester/salford", "title": "Find a Roofer in Salford"},
+     {"url": "https://www.checkatrade.com/Search/Roofing-Repairs/in/Eccles?page=2", "title": "Roofing Repairs in Eccles (91)"},
+     {"url": "https://www.trustatrader.com/traders/forever-last-roofing-ltd-roofers-roofing-pendlebury-swinton-and-eccles", "name": "Forever Last Roofing Ltd"},
+     {"url": "https://trustedtraders.which.co.uk/businesses/bradley-roofing-services", "name": "Bradley Roofing Services"}
+   ]},
+  {"campaign": "roofing-gm", "niche": "roofing", "service": "roof repairs", "town": "Didsbury",
+   "query": "roofers Didsbury Chorlton Manchester roofing services", "source": "websearch", "page": 1,
+   "results": [
+     {"url": "https://www.checkatrade.com/Search/Roofer/in/Manchester?page=2", "title": "Roofer in Manchester"},
+     {"url": "https://www.bark.com/en/gb/roofers/greater-manchester/didsbury/", "title": "Roofers Didsbury"},
+     {"url": "https://www.trustatrader.com/roofers-roofing-in-chorlton-cum-hardy", "title": "Roofers Chorlton"},
+     {"url": "https://www.yell.com/s/roof+repairs-didsbury.html", "title": "roof repairs didsbury"}
+   ]},
+  {"campaign": "roofing-gm", "niche": "roofing", "service": "roof repairs", "town": "Salford",
+   "query": "Salford roofing company \"registered in England\" \"company number\" roof repairs (directories excluded)", "source": "websearch", "page": 1,
+   "results": [
+     {"url": "https://whito.co.uk/roofers/directory/walker-roofing-north-west/", "name": "Walker Roofing (North West) Ltd", "company_number": "06154333"},
+     {"url": "https://fivestarroofline.co.uk/roofing/salford/smv-roofing-ltd", "name": "SMV Roofing Ltd", "company_number": "16590232"},
+     {"url": "https://hightechroofing.co.uk/", "name": "High Tech Roofing NW Limited", "company_number": "08676755"}
+   ]},
+  {"campaign": "roofing-gm", "niche": "roofing", "service": "flat roof repairs", "town": "Urmston",
+   "query": "Manchester roofers flat roofing slate roof replacement free quote Stretford Sale Urmston (directories excluded)", "source": "websearch", "page": 1,
+   "results": [
+     {"url": "https://urmstonroofing.co.uk/roofing-service/", "name": "Urmston Roofing"},
+     {"url": "https://www.atlas-roofbuild.com/", "name": "Atlas Roofing & Building Services"},
+     {"url": "https://roofersalford.uk/service-areas/stretford/", "name": "Complete Roofing Services (Stretford page)"},
+     {"url": "https://roofing-manchester.uk/service-areas/urmston/", "name": "Complete Roofing Services (Urmston page)"},
+     {"url": "https://dawnroofsltd.co.uk/flat-roofers-manchester/", "name": "Dawn Roofs Ltd"},
+     {"url": "https://manchesterflatroofing.co.uk/roofing-services-urmston/", "name": "Manchester Flat Roofing"},
+     {"url": "https://www.ukclassifieds.co.uk/services/tradesmen-construction-services/roofing-services/roofers-urmston-i252264", "title": "Roofers Urmston classifieds"}
+   ]}
+]
